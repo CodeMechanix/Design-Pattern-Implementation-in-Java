@@ -20,6 +20,7 @@ The government is an excellent example of the Singleton pattern. A country can h
 -----------------------------------------------------
 
 Link: https://refactoring.guru/design-patterns/singleton
+
  */
 package com.codewithhasan.designpattern;
 

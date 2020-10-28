@@ -12,6 +12,7 @@ public class SingletonMain {
         Singleton ob = Singleton.getInstance();
 
         // Shot the message
-        ob.showMessage();;
+        ob.showMessage();
+        
     }
 }
